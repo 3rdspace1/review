@@ -8,12 +8,18 @@ Most free chess games give you a board and a computer opponent. Kingfall gives y
 ## Why it's #1
 
 - **Completely free, with no ads.** Nothing interrupts your game, and no feature is hidden behind a paywall.
-- **Armies and gangs instead of plain black and white.** Pick from armies drawn from history's most famous conflicts, as well as street gangs, and face them on the board.
-- **A campaign to beat.** Take on every army in turn. Your phone remembers your army, your progress and your stats.
+- **48 armies and gangs instead of plain black and white.** Every side has its own look and motto:
+  - **History:** Sparta 480BC, the Golden Horde, Sekigahara 1600, Napoleon's Grande Armée, Redcoats 1815, the Crusaders, the Zulu Impi, the Aztec Empire
+  - **Modern wars:** ANZAC 1915, Trench '17, Steel '44, Nam '68, Falklands '82, Spetsnaz '85, Desert Storm '91
+  - **Street gangs:** the Razor Caps (Birmingham 1919), Five Points (New York 1863), the Firm (East End 1965), the Paris Apaches, the Yakuza, the Teddy Boys, Westside '94 and Brooklyn '96
+  - **Indigenous nations:** Te Taua, Lakota 1876 and the Kingdom of Hawaii
+  - **Folklore and myth:** Celtic Fae, Yokai Night, Baba Yaga's Brood, Olympus and Highland Myths
+  - **Pure fun:** the Nana Squad ("sit down and have a biscuit"), Cubicle Corp, Saucer Men, Disco Inferno, Headbangers and the Kiwi Woolshed Mob
+- **A campaign to beat.** Fight your way through every army in turn, or jump straight into a Quick Battle.
 - **One score that follows every game.** It works like a chess rating: beating hard opponents earns big points and losing to easy ones costs you. Captures earn points too.
 - **Hints with a price.** Stuck? Spend points on a threat check, a hint, a take-back or the best move. The more help you take, the more it costs, so the score means something.
 - **A real leaderboard.** Sign in with Google in one tap and see where you rank in the all-time top 100. The server checks every game, so scores are earned and not edited.
-- **Difficulty for everyone.** Levels run from a gentle starter bot to a tough expert, including an extra-easy mode with a name you won't want your friends to see.
+- **Difficulty for everyone.** Four levels from Easy to Expert, plus the extra-gentle **Participation Trophy** level for anyone brave enough to be seen playing it.
 - **The Kingfall finish.** Checkmate ends with a signature "Kingfall" kill move. The game is clean by default, with optional mature effects you can choose to switch on and lock off again.
 - **Plays anywhere.** It runs in any browser on a phone, tablet or computer, installs like an app and keeps working offline. Finished games sync when you're back online.
 - **No tobacco content**, and no dark patterns.
