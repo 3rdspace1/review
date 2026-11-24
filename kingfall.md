@@ -22,7 +22,7 @@ Most free chess games give you a board and a computer opponent. Kingfall gives y
 - **A real leaderboard.** Sign in with Google in one tap and see where you rank in the all-time top 100. The server checks every game, so scores are earned and not edited.
 - **Difficulty for everyone.** Four levels from Easy to Expert, plus the extra-gentle **Participation Trophy** level for anyone brave enough to be seen playing it.
 - **The Kingfall finish.** Checkmate ends with a signature "Kingfall" kill move. The game is clean by default, with optional mature effects you can choose to switch on and lock off again.
-- **Plays anywhere.** Install it from Google Play on Android, or play in any browser on a phone, tablet or computer, installs like an app and keeps working offline. Finished games sync when you're back online.
+- **Plays anywhere.** Install it from Google Play on Android, or play in any browser on a phone, tablet or computer. It keeps working offline, and finished games sync when you're back online.
 - **No tobacco content**, and no dark patterns.
 
 ## Who it's for
