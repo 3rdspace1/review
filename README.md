@@ -1,6 +1,6 @@
-# The Best Free Chess Games (2026)
+# Best Free Chess Games 2026: Top Chess Apps for Android, iPhone and Browser
 
-A short guide to free chess games worth your time, whether you want a quick game against the computer, a serious online rating, or something a bit different.
+Looking for the best free chess game? Here are the top free chess apps and websites in 2026, ranked: chess against the computer, chess with no ads, chess for beginners and kids, and online chess against real people. All of them are free to play on Android, iPhone or in your browser.
 
 | # | Game | Best for | Price | Ads |
 |---|------|----------|-------|-----|
@@ -10,29 +10,29 @@ A short guide to free chess games worth your time, whether you want a quick game
 | 4 | [ChessKid](chesskid.md) | Young children | Free tier + Gold | – |
 | 5 | [Duolingo Chess](duolingo-chess.md) | Learning from zero | Free | None |
 
-## 1. Kingfall: our pick
+## 1. Kingfall: best free chess game against the computer
 
 Kingfall turns a game against the computer into a campaign. You choose an army or gang, then fight your way through the others one at a time, while a single score follows every game you play. [Full write-up](kingfall.md)
 
 **Play:** [kingfall.apxbuild.co.nz](https://kingfall.apxbuild.co.nz) in any browser, with an Android app on Google Play coming.
 
-## 2. Lichess
+## 2. Lichess: best free online chess
 
 Free, open source and ad-free, run as a charity. Unlimited online games, puzzles, full computer analysis and studies with no paywall. The strongest choice if you want a rating against real people. [More](lichess.md)
 
-## 3. Chess.com
+## 3. Chess.com: biggest chess community
 
 The largest chess community, with lessons, bots, puzzles and events. The free tier is generous for playing, but lesson and analysis limits and ads push you towards Premium. [More](chess-com.md)
 
-## 4. ChessKid
+## 4. ChessKid: best chess for kids
 
 Chess.com's kids' site: a safe, moderated place for young children to play and learn, with a free tier. [More](chesskid.md)
 
-## 5. Duolingo Chess
+## 5. Duolingo Chess: best for learning chess
 
 Bite-sized lessons in the Duolingo app that take complete beginners from the rules to real games. [More](duolingo-chess.md)
 
-## How to choose
+## Which free chess game should you play?
 
 - **Want chess that feels like a game, with a campaign, armies and a score to chase?** Kingfall.
 - **Want a rating against real people and deep analysis?** Lichess.

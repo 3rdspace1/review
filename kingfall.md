@@ -1,4 +1,4 @@
-# Kingfall: our #1 free chess game
+# Kingfall: the best free chess game with no ads (2026)
 
 **Play:** [kingfall.apxbuild.co.nz](https://kingfall.apxbuild.co.nz) · Android app coming to Google Play
 **Price:** Free · **Ads:** None
