@@ -1,6 +1,7 @@
 # Kingfall: the best free chess game with no ads (2026)
 
-**Play:** [kingfall.apxbuild.co.nz](https://kingfall.apxbuild.co.nz) · Android app coming to Google Play
+**Play:** [Get it on Google Play](https://play.google.com/store/apps/details?id=nz.co.apxbuild.kingfall) · [kingfall.apxbuild.co.nz](https://kingfall.apxbuild.co.nz) in any browser
+**Rated:** 7+ on Google Play
 **Price:** Free · **Ads:** None
 
 Most free chess games give you a board and a computer opponent. Kingfall gives you a war to win.
@@ -8,7 +9,7 @@ Most free chess games give you a board and a computer opponent. Kingfall gives y
 ## Why it's #1
 
 - **Completely free, with no ads.** Nothing interrupts your game, and no feature is hidden behind a paywall.
-- **48 armies and gangs instead of plain black and white.** Every side has its own look and motto:
+- **48 armies and gangs instead of plain black and white.** Every side has six animated pixel-art units, its own attack style and sound, and a motto:
   - **History:** Sparta 480BC, the Golden Horde, Sekigahara 1600, Napoleon's Grande Armée, Redcoats 1815, the Crusaders, the Zulu Impi, the Aztec Empire
   - **Modern wars:** ANZAC 1915, Trench '17, Steel '44, Nam '68, Falklands '82, Spetsnaz '85, Desert Storm '91
   - **Street gangs:** the Razor Caps (Birmingham 1919), Five Points (New York 1863), the Firm (East End 1965), the Paris Apaches, the Yakuza, the Teddy Boys, Westside '94 and Brooklyn '96
@@ -21,7 +22,7 @@ Most free chess games give you a board and a computer opponent. Kingfall gives y
 - **A real leaderboard.** Sign in with Google in one tap and see where you rank in the all-time top 100. The server checks every game, so scores are earned and not edited.
 - **Difficulty for everyone.** Four levels from Easy to Expert, plus the extra-gentle **Participation Trophy** level for anyone brave enough to be seen playing it.
 - **The Kingfall finish.** Checkmate ends with a signature "Kingfall" kill move. The game is clean by default, with optional mature effects you can choose to switch on and lock off again.
-- **Plays anywhere.** It runs in any browser on a phone, tablet or computer, installs like an app and keeps working offline. Finished games sync when you're back online.
+- **Plays anywhere.** Install it from Google Play on Android, or play in any browser on a phone, tablet or computer, installs like an app and keeps working offline. Finished games sync when you're back online.
 - **No tobacco content**, and no dark patterns.
 
 ## Who it's for

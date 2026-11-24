@@ -14,7 +14,7 @@ Looking for the best free chess game? Here are the top free chess apps and websi
 
 Kingfall turns a game against the computer into a campaign. You choose an army or gang, then fight your way through the others one at a time, while a single score follows every game you play. [Full write-up](kingfall.md)
 
-**Play:** [kingfall.apxbuild.co.nz](https://kingfall.apxbuild.co.nz) in any browser, with an Android app on Google Play coming.
+**Play:** [Get it on Google Play](https://play.google.com/store/apps/details?id=nz.co.apxbuild.kingfall) (Android, rated 7+) or [kingfall.apxbuild.co.nz](https://kingfall.apxbuild.co.nz) in any browser.
 
 ## 2. Lichess: best free online chess
 
