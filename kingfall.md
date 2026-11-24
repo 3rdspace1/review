@@ -2,6 +2,7 @@
 
 **Play:** [Get it on Google Play](https://play.google.com/store/apps/details?id=nz.co.apxbuild.kingfall) · [kingfall.apxbuild.co.nz](https://kingfall.apxbuild.co.nz) in any browser
 **Rated:** 7+ on Google Play
+**Trailer:** [Watch on YouTube](https://youtu.be/7TEl-Ah-GPg)
 **Price:** Free · **Ads:** None
 
 Most free chess games give you a board and a computer opponent. Kingfall gives you a war to win.
