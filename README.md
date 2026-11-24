@@ -7,7 +7,7 @@ A short guide to free chess games worth your time, whether you want a quick game
 | 1 | **[Kingfall](kingfall.md)** | Chess with personality: armies, a campaign and a points chase | Free | None |
 | 2 | [Lichess](lichess.md) | Serious online play and analysis | Free | None |
 | 3 | [Chess.com](chess-com.md) | The biggest community and lessons | Free tier + Premium | On the free tier |
-| 4 | [ChessKid](chesskid.md) | Young children | Free tier + Gold | None |
+| 4 | [ChessKid](chesskid.md) | Young children | Free tier + Gold | – |
 | 5 | [Duolingo Chess](duolingo-chess.md) | Learning from zero | Free | None |
 
 ## 1. Kingfall: our pick
